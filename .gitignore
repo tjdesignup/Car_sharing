@@ -1,0 +1,14 @@
+# 🔐 Citlivé soubory
+*.env
+.env
+
+# 📁 VS Code a další IDE
+.vscode/
+.idea/
+
+# 🔧 Virtual environment
+venv/
+env/
+
+# 🗃️ SQLite databáze
+*.sqlite3
